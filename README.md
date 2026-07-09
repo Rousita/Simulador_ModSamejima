@@ -1,0 +1,1 @@
+El modelo Samejima es un modelo matemático psicométrico perteneciente a la Teoría de Respuesta al Ítem (TRI), utilizado para evaluar respuestas graduadas o politómicas (como las escalas Likert que se usan mucho en investigación educativa)
